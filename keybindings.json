@@ -702,8 +702,8 @@
         "key": "shift+alt+f",
         "command": "cursorWordStartRightSelect"
     },
-    {
+    /*{
         "key": "ctrl+g",
         "command": "workbench.action.focusActiveEditorGroup"
-    }
+    }*/
 ]
